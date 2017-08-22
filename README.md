@@ -1,5 +1,6 @@
 # Introduction
 
+
 Hangupsbot is a chat bot designed for working with Google Hangouts.
 
 Please see:
